@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler View Testapp</string>
+    <string name="user_email">User Email</string>
+    <string name="user_password">User Password</string>
+</resources>
